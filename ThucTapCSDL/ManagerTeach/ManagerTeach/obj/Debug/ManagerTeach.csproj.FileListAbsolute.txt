@@ -1,0 +1,121 @@
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csprojAssemblyReference.cache
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Form1.resources
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Properties.Resources.resources
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csproj.GenerateResource.cache
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ManagerTeach.exe.config
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ManagerTeach.exe
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ManagerTeach.pdb
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csproj.CopyComplete
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.exe
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.pdb
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\vi-VN\ManagerTeach.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Form1.vi-VN.resources
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\vi-VN\ManagerTeach.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.TaiNCKH.resources
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.exe.licenses
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.frMember.resources
+C:\Users\Huy Hoang\Desktop\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.TaiDT.resources
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csprojAssemblyReference.cache
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Form1.resources
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.frMember.resources
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.TaiDT.resources
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.TaiNCKH.resources
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Properties.Resources.resources
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Form1.vi-VN.resources
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csproj.GenerateResource.cache
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.exe.licenses
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csproj.CoreCompileInputs.cache
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.exe
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.pdb
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ManagerTeach.exe.config
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ManagerTeach.exe
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ManagerTeach.pdb
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\vi-VN\ManagerTeach.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\Bunifu_UI_v1.52.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Data.v18.1.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Utils.v18.1.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Data.v18.1.xml
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\vi-VN\ManagerTeach.resources.dll
+D:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csproj.CopyComplete
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csprojAssemblyReference.cache
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Form1.resources
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.frMember.resources
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.TaiDT.resources
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.GUI.TaiNCKH.resources
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Properties.Resources.resources
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.Form1.vi-VN.resources
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.csproj.GenerateResource.cache
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.exe.licenses
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.exe
+E:\HuyHoangBackup\Year3\ThucTapCSDL\ManagerTeach\ManagerTeach\obj\Debug\ManagerTeach.pdb

@@ -1,0 +1,1657 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_Syn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="btn_Syn.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btn_Syn.Iconimage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAA8hJREFUaEPt
+        mVuITVEYgOeCzGSIGYSJwZshl6Qk5FIjL5OIF4pEGVPzgHhxScSImgc0ygMpRMi8GLdQotzJrSTXXHMp
+        t1yP79/7P/uss+fMmb3P3prZOV99zZn1r//fa5199l5nr5OTJUuWLL6IxWKdcRZux4v4BuP8wJd4E3dh
+        NZZratuAAY3C3fgF/XIPV2M3LZcE7bkoE/+D0revhsKDosPwLIbBR1yJBVregv/HSNCgTkPBoVg+rsFf
+        UtkD7/Gr/bJF7uNoPZQca5rVmmCvhoJBIbkOGq2SqbmLa3EK9sd2miq5RTgSF+A+/IypkDeoWnPCnwhF
+        euANq1xTGnCsdvUE/QtxMT7HVKzHcCdCge54xyqVzCOcoN0ygvyOuBFTfVT36N84mU+EZLkmTltlkpGP
+        WBftFhhqjUO5nkzkbmUSaCKr7BpJHMT22iUw1CrBATgV32FzZDYREgfjd6tEglPYQbsEhlruj086Mp6I
+        XMQmT7FYw4Gh1lCrqnf8T4Sk4XZuEhUaDgXq9UOv65GQ0UR22rkOjRoKFerOw0t4xaXc6uXil/Xmsbat
+        1zRvkCC3xE9oEug22yowaLl7mDzAXA1HBwYtC5TJFg1FCwZ+0h6/Q6WGogUDf2iP36FMQ9GCgZsPSb8x
+        tFU8Ezi+fE2Slb9Qm7xBwi2Mc12bWwWOX4CXrZHEYq9woIZahs7leAQP4yBtbhU4/gw0qdVQtGDgy+3x
+        O6zTULRg4PX2+B2qNBQtGPhVe/wO4zUUHRi0PF7LXTOOfMEs0nB0YNBV1vATnNOQN0iQ+/ZkdTouQtkZ
+        ibfFnYj/ZLGkbh7eRpMaDXuDhE52nifk1M/V1NCg5hyregLZG/P3UEeCn4kI1zQ1FKjXFWWv2KRew94h
+        ye9E9mtqYKgl+72HrKoJ5GyUahfvkJRuIrKzfhwPqNuwRFMDQ60N6GaFhv1BYktnRH4ycPZow4B6cibc
+        z0HCBXS2Xn1Bonsi7sdeQU73fE0JBHWK8agUdfEMe2k3/5DsnshblM3pVMgXS+/fSA3Ik7MwE1+gGzlm
+        sC+sFGgyEW1fiuZKG+cnyg8ysq7kW0XSQB/Z1V+I5uOCieyfDdHumUORlBMReC0L5AerNTXyTh5DuWjl
+        JzZ5x2fjEtyK5/EbNscZzPzjZEIh2fI3ea0hC/4vxRNWJDzkOpQznqeHCQcKmqe9QZuToL0C5R0Ogpwd
+        +QG1t5YNFwqXYR3WYtp1gvgI3IxP0AtynclO4jLsqWXaFgysD1bqIDfhDlUWzhqchKH9rpIlS5b/ipyc
+        vxVEhIPhtmC3AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="btn_Syn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 107</value>
+  </data>
+  <data name="btn_Syn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_Syn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 59</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_Syn.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btn_Syn.Text" xml:space="preserve">
+    <value>Đồng Bộ</value>
+  </data>
+  <data name="&gt;&gt;btn_Syn.Name" xml:space="preserve">
+    <value>btn_Syn</value>
+  </data>
+  <data name="&gt;&gt;btn_Syn.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_Syn.Parent" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;btn_Syn.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btn_AnLM.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="btn_AnLM.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_AnLM.Iconimage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAu5JREFUaEPt
+        mDtoFFEUhjeaQHwFEjAg0YBgQBAUHyCiKKKNdkFiIRG0FUErQVKIFpE0prAIqKCFaCEiYmEhKhaxsJCA
+        igYV8YUgkkLxBer4/TNnQjLuHXfCbHaH3A8+NnMed+/Jzu7sTsnjmRpBEDTgafyKd7HdUsWCjW/BifRb
+        qliw8R3R/sc5bqniwKZ1Wt0Mtx8EP/Aatlq6OLDpg5oAPmGHhYsFG1+J3zUFdFu4WLDxOfg4HCEIzlq4
+        eLD5U9EMwVOcZ+HawAbm4mw7rBh6duIf/IlrLFwb2MBJFB9xnYX/C7Vt+FaN0Gfh2sAGOqJ9jDOCTZZO
+        hborYUcQ3MPMr2Zu8OSNOKSdJHiJ+7HRSv/B8mIMOy08/fDkC/GOdgK/8B0+wFEFjBe4DycNxPEy/IKi
+        x2L65OpMsS1szhMW3YDvUbzGtZYK4Xg7aqiYN3gIm7EVH6IYshb17IpCTs5ZaT6wYC9+C5eONrvEUpMg
+        Pgt34yOM+WyPQv+A+VY+fYOwkN4Pg+GSEeex2dJOqNFAPfgcJ3LDSkI4ru4gLKBTYSkOazXQq9Fr6Yqh
+        R+e53ksxA5YK4bh6g9B8DH+b4gNusnRm6N2D9/ECtlg4hOP8B6FJp0M36oobo0+Zqn0jZe38BqF4Efbh
+        K3UmmHRO5w3rT20QEroO6CuC3sR6M97C+BQS+ogcwNt4CRdba1Vg/eyDEDyKOm20cX0/itHvgYu4GRus
+        vCzkdU1YnWKXlVYE9dkGIaCfk/FVNeYJHsaKr57UrlBjCsNWWhHUT+kVeRblQkYsnAn66mKQVXgVL2Om
+        UyCGvtoPkgcsPLMG4bEFN6a43OrqfpDkncMk163OD1IWGppwa4rrra7uB2mP+pyMWp0fJMEMHoQD3bJ3
+        uc1q6nsQ/tBvjDTGrM4PksAP4sAP4sIP4sAP4sIP4sAP4sAP4sIP4iDzILoxdybFQatbkIgnPWF1uk9c
+        Lh97xOq6EvGkB6xOdyfL5WP3lkql0l8DYvLWIwyYZQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btn_AnLM.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 168</value>
+  </data>
+  <data name="btn_AnLM.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_AnLM.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 59</value>
+  </data>
+  <data name="btn_AnLM.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btn_AnLM.Text" xml:space="preserve">
+    <value>Thống kê khoa</value>
+  </data>
+  <data name="&gt;&gt;btn_AnLM.Name" xml:space="preserve">
+    <value>btn_AnLM</value>
+  </data>
+  <data name="&gt;&gt;btn_AnLM.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_AnLM.Parent" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;btn_AnLM.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btn_Search.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="btn_Search.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_Search.Iconimage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAA3JJREFUaEPt
+        mU2IjVEYx2fM0IwpX8NmShILSabEZiIlYzZIJpMpUSQWNorJR5KmhIWN1dgYLMz4yEcsRkjZycdE+Swr
+        OyIbQz7G73nP8577zule3Pc9Z+bOdH/1Kzzn/p9z7n2/zquiTJkSZHBwcCHuw5v4Dn9hzAA+xbO4Fev1
+        Y6UBE6rEVnyIxfANz+M8jRo5mEQTPsIs/MQunK6xwwdN5Vc4qJPwxXts0hbhodl4lOM8H7Kw+7gHl2AD
+        VmEtzsFmPIlvMR9yuG3QVuGgiUzqmnR0iA+PmTr0nzB2Jfaji1wg2nRYGGhwOGo1lI/YrEOKgs/Jr3sM
+        f2OSr9iow/xC8DJMXk6FFzhbh6SGjDb8LoEJXmONDvEDgdX4XNITfMDMi4gha3uUOpRDWvYDgZtMrkUO
+        hRVa9gaZp6P0HF9wqpazQ9jjKDZHj5a8Qu40/Bx1yNGh5WwQNN/kWX7gXC17h2x5xEnSr6VsENRh8ix9
+        WgoC+fUoX1aSWVpODyHXTZZll5aCQY8HppWlXUvpIcS9Cy/QUjDo0WlaWTq1lB5C5PE7ib+rSAHosdO0
+        snRrKR0EyP0jyYCWgkKftaad5YqW0kGAPOUm7+by52otB4MeG6NuOXq1lB5C5KaUpEFLwaDHbtPK0qWl
+        9BDyxGRZlmopGPQ4ZVpZst8UCTljsixHtRQMesh+P0mLltJDyGaTZXmppSCQ32jaWOSpuE7L6SFkEsr+
+        IMl6LXuH7IumheWqlrJD2CWTaZFH+iote4PMRejueVq1nB3CFqO7izuiZS+QV4fu1lc2buN0iB8I7I6i
+        c8jCvHxb5Mj9qldCHbKf5C6EylOpvLJJIm89tumQVPB5+SXc80LI9ljyNwhfju7eWpCdXdGvQPmMvDJ6
+        JgF5uIu1OtQ/hLdjvhdzsrOTTdEMHVoQxsgl9gK6553LbQy6mHXoXpJjZJF3cD/KPagF1+AOPIHydqQY
+        +jDoYuRbfSOdhoEbOEFb+4fwGpTD6ROmRZ7lVuG56G+FCfvLCDSYjHvxFf4PcvjdQtl3VGqGvI4d+cXE
+        0EheVm/B49iDcmkVZZIHcDVO0eFD4N9LazFZYJLlxZQkTLK8mJKESY6pxch/CF2WGRfgHk7U4aUNEy30
+        y4S964eACbuLGX2LiGHi8WJG7yJiWICcM6V/cpcZe1RU/AF6AwOtl6KLgQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btn_Search.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 229</value>
+  </data>
+  <data name="btn_Search.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_Search.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 59</value>
+  </data>
+  <data name="btn_Search.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btn_Search.Text" xml:space="preserve">
+    <value>Tìm kiếm</value>
+  </data>
+  <data name="&gt;&gt;btn_Search.Name" xml:space="preserve">
+    <value>btn_Search</value>
+  </data>
+  <data name="&gt;&gt;btn_Search.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_Search.Parent" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;btn_Search.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btn_ANL_GiaoVien.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="btn_ANL_GiaoVien.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_ANL_GiaoVien.Iconimage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAABS5JREFUaEPt
+        mWmoVVUYhq9mltUNU8jQwrJJCUuSikIDI6KiEpKgMkr0j6UUBZWJFGQEUVEhTf4ow6DBiCCsqAjSJMgK
+        mywq60fRQNE8T6fn/da3Dufuu/Y560z33Av3gUf3+tba96zv7L3XsE/fKKOMkk+lUtlvhDjBuzwYKsfj
+        SOE/vNi7PhAqRlIiYoN3fSBUjCbSI5pO5B/8LhwOK7IS+Qyvw5k4zuv3xOPxJvweU/yFu5rwC4z8hqk2
+        8iss0jCRO3BvDys+DjXkjfGQYpPxMSyy05tkQfsF4TTjOQ8PgrrzQpMBlCayOy7z4zF4Pm7Bf1H8iZtx
+        QU2bW7CWj3FGE16IEX1Wqo1cgUXSiURoMBGftabl3I+6UmPxGQV6QHkiVOpb1reew61+zoH4q0WGlrqJ
+        pO7FMjSazfbzNlmk+Yc91/yHXVD5YmiTzTo/b0koNvew58LfzX/YBZU/hDbZvOrnzQvFyic4twtei0XS
+        iVChBzeOULnYFeD/2aE4pNS9Ip+HNtm84OedHopDSt1EHgxtsrnaz7smFEvRsnsn7sBfFOgAdRM5GnNv
+        Ly1TJvl52y2S5iGcbh8AHO+FK/EnbIfyRAQNtMZqhJI919ufZpE0NtcIjqegnqXdvHwMtpNM/UQEjS5H
+        LeJSfIsLvd0k1Dif4mnUACLvRs074gM80s+/yiKt0TgRQUPN2Lr3n8LXUItErXkmev0e+DKm0POwr7cr
+        rsfEm153cCi2RF4iOfDHtKQ5AnXPv4VCe5fDvf4ii6Tp9zZlV74RWbeWrsZ8PLXEk/EonOynGJRPwXl+
+        fAL+jimUrG45PfitUp4IlYtQQ2QuGlbfwFVoI5jgeBrWbpqKrPJ2C0OxJdKJUHF9qG8ZrYDvw2NRz1QZ
+        Wl3ramgbUG/YbsTgRAhqp6Zvt9t8inHuudMirZNMRENlt9HzMtc/T7dUu19cMpGheEtyqX/WoVj28iKi
+        CVfb5tfxPUxNnAMTIaD7tds86p+lNzEaHMrQBuoK3N8651DWnHUmvoKRHV4dINBuIj/il+EwyYcYJ8d7
+        LZLmSbR2Ecrr8EovGpS16oirhOUe7kgi76K+saV+XIuSnOOfc4FF0iiJ6usmQVnz1Eu4EYtX6BIUerMz
+        IwbbTsT+EHCsmV57E334epzp8VlYtkDUfGOzfITybVg7GOgZnu/VBmX9fbExBjqWSArq9c3qzWUZK72p
+        QfmkEK58g1odaPkj3vYmBuUDUFfkD+zvWiLEtfzQ1dmAjxd8Av9GjU5T/BSD8mIUW7ysq7wNNXnaFiBC
+        +XkUi7qWSD04Z3o4tbLLQ1WI6TZUgnqgV2P19W0R6m5EsbpjifD/BNRrmxzj5m2b9agAcd1OccGpW0wj
+        1VivrkLsMjWAuzqZiBaKzfKO9SgBdVPxdvxZDWG9V1UhpsWqWNvrRNTJ8dYrh/KJqKs21cvHodDtto81
+        cig/YDWaT/inl4mIM6xXDmVNgmKNl/tRA4OYZo2AY62ev7Yom7vhkMhW65lDWT8m6dtX5/UK9yMU272J
+        QTk+H2GpwoGGN/1M0Ko3+N/RzxGp+jJ1W8S3+CusMw7ls3Ar6qW4JsOH0W41wbEWnnGhe46Hewed0I5U
+        M7g6vNjDVYhpE7bEiwblw/B9FJs83HvozJrQJ0Mv8w7yKtXNwfjQ66dBrYzjFkATZOkc0xPo0DLUUkNo
+        ItRicS0uRw2xurVq90z6PWZ4JRGhY/qt8BHU+qkMvRg5208Z3tBRDbfaCmv2vwdvRm0RDvEmCfr6/gcl
+        kpSkIDTB1wAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btn_ANL_GiaoVien.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 290</value>
+  </data>
+  <data name="btn_ANL_GiaoVien.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_ANL_GiaoVien.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 59</value>
+  </data>
+  <data name="btn_ANL_GiaoVien.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btn_ANL_GiaoVien.Text" xml:space="preserve">
+    <value>Thống kê giáo viên</value>
+  </data>
+  <data name="&gt;&gt;btn_ANL_GiaoVien.Name" xml:space="preserve">
+    <value>btn_ANL_GiaoVien</value>
+  </data>
+  <data name="&gt;&gt;btn_ANL_GiaoVien.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_ANL_GiaoVien.Parent" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;btn_ANL_GiaoVien.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="pn_Menu.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAqSURBVChTjcghAQAACAMwYtOUOCcAE4iZVfXkhSlMYQpT
+        mMIUpjCFeUwW8nPmeVB+J6gAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="pn_Menu.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton4.Name" xml:space="preserve">
+    <value>bunifuFlatButton4</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton4.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton4.Parent" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn_MenuDrop.Name" xml:space="preserve">
+    <value>btn_MenuDrop</value>
+  </data>
+  <data name="&gt;&gt;btn_MenuDrop.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuImageButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_MenuDrop.Parent" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;btn_MenuDrop.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pn_Menu.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="pn_Menu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pn_Menu.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="pn_Menu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 846</value>
+  </data>
+  <data name="pn_Menu.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pn_Menu.Name" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;pn_Menu.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuGradientPanel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;pn_Menu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pn_Menu.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="bunifuFlatButton4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="bunifuFlatButton4.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="bunifuFlatButton4.Iconimage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAlxJREFUWEft
+        lj1rFFEYhTedohZKCiMmxhA/sPN/WEQshBRaq8FgQBDRws6/oBYWip+YFBLR3t+goigW2kQEieK3Xp8z
+        98w6k9m7O7OJjewDB2bPe953Z3Zn7tzWgAFNCCGMoOPoEXqC3lk6foiOoa2Orx0MnUR30C/UC2WUnXT7
+        6mDQIfQJia/oGjqIJtBmS8fKXUffkPiIpjymPxgwh35rGuiqxl1KQkYnc08NoF9j1qVm0DjlAT/7GULP
+        KfdqxgHb9aBhO1pGYs52Y+g9HUeED2jEdm8IX83aQpi3VQJ/DN1Gry0dj7ncBm8I3Ufiiu3uEBxH+tl0
+        M03YboM3it6jlcgbdawN3i70HenvqNQrEJpF4qatEvJjObuynUg33aIMuOFYCXzdwGLGVhpCWlDEYVsl
+        8N/G8t+r4XhHtMIbWyXwp2M5PLCVhtCLmK2/kJDV3yKWbJXA3xPL4ZmtNIS0gIiNtrpCbj96nHWwSNku
+        gb8plsOyrTSE8lVvg60kZPSs64YVehoqT4LAb3QCz2M27LaVhMxSjIYLaIvtCtT2ZqkQntpKQ6jrTVjE
+        ueCPSYg0uglnYrbzY9gPzNJCJU7YSkNIy/AP1HEhKkI9wx87QlkLkWbVW4gEwUtILKAh2xViJH0ClIpL
+        8WXbvSG8DeUvo7O2G0Pv+Tii4ctI0JC/jrUfOGO7FuR15efc2/x1nENjcUNyF9XdkMyrAfTlJ13qDwas
+        3JLpZXQE7UPr0HofH0W3kDJi9VuyHAYNo4voC+rFZ6TssNvXDoYWt+WvkK5Weon+3bZ8wH9Mq/UHN926
+        yiUrF5AAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuFlatButton4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 351</value>
+  </data>
+  <data name="bunifuFlatButton4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="bunifuFlatButton4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 59</value>
+  </data>
+  <data name="bunifuFlatButton4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="bunifuFlatButton4.Text" xml:space="preserve">
+    <value>Trợ giúp</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton4.Name" xml:space="preserve">
+    <value>bunifuFlatButton4</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton4.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton4.Parent" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btn_MenuDrop.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAHFJREFUaEPt
+        1kERgEAMQ9HawAJo4I4CLIAGTHBHBErw1F12qgE62f9mIiCXtAYA+IW7nwJZ3yIKLooko1VkE8gc2wUA
+        QOfqVbwFsvM0JkORbFqRRSBTbBcAAJ2rV/ERyMHTmAxFsmlFRoEMsV0AgC+ZFV7qYh8UkznCAAAAAElF
+        TkSuQmCC
+</value>
+  </data>
+  <data name="btn_MenuDrop.InitialImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="btn_MenuDrop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 14</value>
+  </data>
+  <data name="btn_MenuDrop.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="btn_MenuDrop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 30</value>
+  </data>
+  <data name="btn_MenuDrop.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="btn_MenuDrop.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btn_MenuDrop.Name" xml:space="preserve">
+    <value>btn_MenuDrop</value>
+  </data>
+  <data name="&gt;&gt;btn_MenuDrop.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuImageButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_MenuDrop.Parent" xml:space="preserve">
+    <value>pn_Menu</value>
+  </data>
+  <data name="&gt;&gt;btn_MenuDrop.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pn_Container.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="pn_Container.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAYSURBVChTY/j27dt/YvCoQryY2gq//QcArBKD9LyFaVcA
+        AAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="pn_Container.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
+    <value>comboBox1</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lbl_nam.Name" xml:space="preserve">
+    <value>lbl_nam</value>
+  </data>
+  <data name="&gt;&gt;lbl_nam.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuCustomLabel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lbl_nam.Parent" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;lbl_nam.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;bunifuDatepicker1.Name" xml:space="preserve">
+    <value>bunifuDatepicker1</value>
+  </data>
+  <data name="&gt;&gt;bunifuDatepicker1.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuDatepicker, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bunifuDatepicker1.Parent" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;bunifuDatepicker1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;DataGridView.Name" xml:space="preserve">
+    <value>DataGridView</value>
+  </data>
+  <data name="&gt;&gt;DataGridView.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuCustomDataGrid, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;DataGridView.Parent" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;DataGridView.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pn_Container.Location" type="System.Drawing.Point, System.Drawing">
+    <value>311, 0</value>
+  </data>
+  <data name="pn_Container.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pn_Container.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1172, 846</value>
+  </data>
+  <data name="pn_Container.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pn_Container.Name" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;pn_Container.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuGradientPanel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;pn_Container.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pn_Container.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="comboBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="comboBox1.Items" xml:space="preserve">
+    <value>Khoa CNTT</value>
+  </data>
+  <data name="comboBox1.Items1" xml:space="preserve">
+    <value>Khoa KTDK</value>
+  </data>
+  <data name="comboBox1.Items2" xml:space="preserve">
+    <value>Khoa HL-KT</value>
+  </data>
+  <data name="comboBox1.Items3" xml:space="preserve">
+    <value>Khoa VTDT</value>
+  </data>
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>695, 77</value>
+  </data>
+  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 24</value>
+  </data>
+  <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="comboBox1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
+    <value>comboBox1</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbl_nam.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbl_nam.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 11.25pt</value>
+  </data>
+  <data name="lbl_nam.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lbl_nam.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 73</value>
+  </data>
+  <data name="lbl_nam.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lbl_nam.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 25</value>
+  </data>
+  <data name="lbl_nam.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lbl_nam.Name" xml:space="preserve">
+    <value>lbl_nam</value>
+  </data>
+  <data name="&gt;&gt;lbl_nam.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuCustomLabel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lbl_nam.Parent" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;lbl_nam.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="bunifuDatepicker1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="bunifuDatepicker1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>926, 73</value>
+  </data>
+  <data name="bunifuDatepicker1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="bunifuDatepicker1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 40</value>
+  </data>
+  <data name="bunifuDatepicker1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;bunifuDatepicker1.Name" xml:space="preserve">
+    <value>bunifuDatepicker1</value>
+  </data>
+  <data name="&gt;&gt;bunifuDatepicker1.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuDatepicker, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bunifuDatepicker1.Parent" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;bunifuDatepicker1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="DataGridView.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="DataGridView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 143</value>
+  </data>
+  <data name="DataGridView.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="DataGridView.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="DataGridView.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1067, 640</value>
+  </data>
+  <data name="DataGridView.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;DataGridView.Name" xml:space="preserve">
+    <value>DataGridView</value>
+  </data>
+  <data name="&gt;&gt;DataGridView.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuCustomDataGrid, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;DataGridView.Parent" xml:space="preserve">
+    <value>pn_Container</value>
+  </data>
+  <data name="&gt;&gt;DataGridView.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="pn_MenuChil.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVChTY/hPJBhViBdQW+H//wAj+46A3TfWvAAAAABJ
+        RU5ErkJggg==
+</value>
+  </data>
+  <data name="pn_MenuChil.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="pn_containMnc.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom</value>
+  </data>
+  <data name="pn_containMnc.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAUSURBVChTY/hPJBhViBdQW+H//wAj+46A3TfWvAAAAABJ
+        RU5ErkJggg==
+</value>
+  </data>
+  <data name="pn_containMnc.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="&gt;&gt;btn_TKNhanLuc.Name" xml:space="preserve">
+    <value>btn_TKNhanLuc</value>
+  </data>
+  <data name="&gt;&gt;btn_TKNhanLuc.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_TKNhanLuc.Parent" xml:space="preserve">
+    <value>tab1</value>
+  </data>
+  <data name="&gt;&gt;btn_TKNhanLuc.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiDaoTao.Name" xml:space="preserve">
+    <value>btn_TKTaiDaoTao</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiDaoTao.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiDaoTao.Parent" xml:space="preserve">
+    <value>tab1</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiDaoTao.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiNCKH.Name" xml:space="preserve">
+    <value>btn_TKTaiNCKH</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiNCKH.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiNCKH.Parent" xml:space="preserve">
+    <value>tab1</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiNCKH.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tab1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="tab1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tab1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tab1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>239, 712</value>
+  </data>
+  <data name="tab1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tab1.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tab1.Name" xml:space="preserve">
+    <value>tab1</value>
+  </data>
+  <data name="&gt;&gt;tab1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tab1.Parent" xml:space="preserve">
+    <value>tbc_MainOfMnc</value>
+  </data>
+  <data name="&gt;&gt;tab1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btn_findBB.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_findBB.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_findBB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 122</value>
+  </data>
+  <data name="btn_findBB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_findBB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_findBB.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="btn_findBB.Text" xml:space="preserve">
+    <value>Bài Báo</value>
+  </data>
+  <data name="&gt;&gt;btn_findBB.Name" xml:space="preserve">
+    <value>btn_findBB</value>
+  </data>
+  <data name="&gt;&gt;btn_findBB.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_findBB.Parent" xml:space="preserve">
+    <value>tab2</value>
+  </data>
+  <data name="&gt;&gt;btn_findBB.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btn_findBSS.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_findBSS.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_findBSS.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 63</value>
+  </data>
+  <data name="btn_findBSS.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_findBSS.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_findBSS.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="btn_findBSS.Text" xml:space="preserve">
+    <value>Biên Soạn Sách</value>
+  </data>
+  <data name="&gt;&gt;btn_findBSS.Name" xml:space="preserve">
+    <value>btn_findBSS</value>
+  </data>
+  <data name="&gt;&gt;btn_findBSS.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_findBSS.Parent" xml:space="preserve">
+    <value>tab2</value>
+  </data>
+  <data name="&gt;&gt;btn_findBSS.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn_findDTNC.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_findDTNC.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_findDTNC.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 4</value>
+  </data>
+  <data name="btn_findDTNC.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_findDTNC.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_findDTNC.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="btn_findDTNC.Text" xml:space="preserve">
+    <value>Đề tài nghiên cứu</value>
+  </data>
+  <data name="&gt;&gt;btn_findDTNC.Name" xml:space="preserve">
+    <value>btn_findDTNC</value>
+  </data>
+  <data name="&gt;&gt;btn_findDTNC.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_findDTNC.Parent" xml:space="preserve">
+    <value>tab2</value>
+  </data>
+  <data name="&gt;&gt;btn_findDTNC.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tab2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="tab2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tab2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tab2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>239, 712</value>
+  </data>
+  <data name="tab2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tab2.Text" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tab2.Name" xml:space="preserve">
+    <value>tab2</value>
+  </data>
+  <data name="&gt;&gt;tab2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tab2.Parent" xml:space="preserve">
+    <value>tbc_MainOfMnc</value>
+  </data>
+  <data name="&gt;&gt;tab2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_Tongtai.Name" xml:space="preserve">
+    <value>btn_GV_Tongtai</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_Tongtai.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_Tongtai.Parent" xml:space="preserve">
+    <value>tab3</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_Tongtai.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiDaoTao.Name" xml:space="preserve">
+    <value>btn_GV_TaiDaoTao</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiDaoTao.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiDaoTao.Parent" xml:space="preserve">
+    <value>tab3</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiDaoTao.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiNCKH.Name" xml:space="preserve">
+    <value>btn_GV_TaiNCKH</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiNCKH.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiNCKH.Parent" xml:space="preserve">
+    <value>tab3</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiNCKH.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tab3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="tab3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tab3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tab3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>239, 712</value>
+  </data>
+  <data name="tab3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tab3.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tab3.Name" xml:space="preserve">
+    <value>tab3</value>
+  </data>
+  <data name="&gt;&gt;tab3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tab3.Parent" xml:space="preserve">
+    <value>tbc_MainOfMnc</value>
+  </data>
+  <data name="&gt;&gt;tab3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton17.Name" xml:space="preserve">
+    <value>bunifuFlatButton17</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton17.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton17.Parent" xml:space="preserve">
+    <value>tab6</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton17.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton16.Name" xml:space="preserve">
+    <value>bunifuFlatButton16</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton16.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton16.Parent" xml:space="preserve">
+    <value>tab6</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton16.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tab6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 25</value>
+  </data>
+  <data name="tab6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tab6.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tab6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>239, 712</value>
+  </data>
+  <data name="tab6.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="tab6.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;tab6.Name" xml:space="preserve">
+    <value>tab6</value>
+  </data>
+  <data name="&gt;&gt;tab6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tab6.Parent" xml:space="preserve">
+    <value>tbc_MainOfMnc</value>
+  </data>
+  <data name="&gt;&gt;tab6.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tbc_MainOfMnc.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tbc_MainOfMnc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="tbc_MainOfMnc.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="tbc_MainOfMnc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 741</value>
+  </data>
+  <data name="tbc_MainOfMnc.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tbc_MainOfMnc.Name" xml:space="preserve">
+    <value>tbc_MainOfMnc</value>
+  </data>
+  <data name="&gt;&gt;tbc_MainOfMnc.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tbc_MainOfMnc.Parent" xml:space="preserve">
+    <value>pn_containMnc</value>
+  </data>
+  <data name="&gt;&gt;tbc_MainOfMnc.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pn_containMnc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 98</value>
+  </data>
+  <data name="pn_containMnc.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pn_containMnc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 741</value>
+  </data>
+  <data name="pn_containMnc.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pn_containMnc.Name" xml:space="preserve">
+    <value>pn_containMnc</value>
+  </data>
+  <data name="&gt;&gt;pn_containMnc.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuGradientPanel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;pn_containMnc.Parent" xml:space="preserve">
+    <value>pn_MenuChil</value>
+  </data>
+  <data name="&gt;&gt;pn_containMnc.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pn_HeaderMnc.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAYSURBVChTY/jw4cN/YvCoQryY2go//AcABtt87CgxqRUA
+        AAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="pn_HeaderMnc.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="&gt;&gt;lbl_Status.Name" xml:space="preserve">
+    <value>lbl_Status</value>
+  </data>
+  <data name="&gt;&gt;lbl_Status.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuCustomLabel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lbl_Status.Parent" xml:space="preserve">
+    <value>pn_HeaderMnc</value>
+  </data>
+  <data name="&gt;&gt;lbl_Status.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="pn_HeaderMnc.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="pn_HeaderMnc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="pn_HeaderMnc.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pn_HeaderMnc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 98</value>
+  </data>
+  <data name="pn_HeaderMnc.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;pn_HeaderMnc.Name" xml:space="preserve">
+    <value>pn_HeaderMnc</value>
+  </data>
+  <data name="&gt;&gt;pn_HeaderMnc.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuGradientPanel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;pn_HeaderMnc.Parent" xml:space="preserve">
+    <value>pn_MenuChil</value>
+  </data>
+  <data name="&gt;&gt;pn_HeaderMnc.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="pn_MenuChil.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="pn_MenuChil.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 0</value>
+  </data>
+  <data name="pn_MenuChil.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="pn_MenuChil.Size" type="System.Drawing.Size, System.Drawing">
+    <value>247, 846</value>
+  </data>
+  <data name="pn_MenuChil.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;pn_MenuChil.Name" xml:space="preserve">
+    <value>pn_MenuChil</value>
+  </data>
+  <data name="&gt;&gt;pn_MenuChil.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuGradientPanel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;pn_MenuChil.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;pn_MenuChil.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btn_TKTaiNCKH.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_TKTaiNCKH.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_TKTaiNCKH.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 4</value>
+  </data>
+  <data name="btn_TKTaiNCKH.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_TKTaiNCKH.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_TKTaiNCKH.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btn_TKTaiNCKH.Text" xml:space="preserve">
+    <value>Tải NCKH</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiNCKH.Name" xml:space="preserve">
+    <value>btn_TKTaiNCKH</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiNCKH.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiNCKH.Parent" xml:space="preserve">
+    <value>tab1</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiNCKH.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btn_GV_TaiDaoTao.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_GV_TaiDaoTao.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_GV_TaiDaoTao.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 63</value>
+  </data>
+  <data name="btn_GV_TaiDaoTao.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_GV_TaiDaoTao.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_GV_TaiDaoTao.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="btn_GV_TaiDaoTao.Text" xml:space="preserve">
+    <value>Tải Đào Tạo</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiDaoTao.Name" xml:space="preserve">
+    <value>btn_GV_TaiDaoTao</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiDaoTao.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiDaoTao.Parent" xml:space="preserve">
+    <value>tab3</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiDaoTao.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn_GV_TaiNCKH.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_GV_TaiNCKH.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_GV_TaiNCKH.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 4</value>
+  </data>
+  <data name="btn_GV_TaiNCKH.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_GV_TaiNCKH.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_GV_TaiNCKH.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="btn_GV_TaiNCKH.Text" xml:space="preserve">
+    <value>Tải NCKH</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiNCKH.Name" xml:space="preserve">
+    <value>btn_GV_TaiNCKH</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiNCKH.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiNCKH.Parent" xml:space="preserve">
+    <value>tab3</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_TaiNCKH.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="bunifuFlatButton17.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="bunifuFlatButton17.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="bunifuFlatButton17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 63</value>
+  </data>
+  <data name="bunifuFlatButton17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="bunifuFlatButton17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="bunifuFlatButton17.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="bunifuFlatButton17.Text" xml:space="preserve">
+    <value>Liên Hệ</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton17.Name" xml:space="preserve">
+    <value>bunifuFlatButton17</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton17.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton17.Parent" xml:space="preserve">
+    <value>tab6</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton17.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="bunifuFlatButton16.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="bunifuFlatButton16.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="bunifuFlatButton16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 4</value>
+  </data>
+  <data name="bunifuFlatButton16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="bunifuFlatButton16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="bunifuFlatButton16.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="bunifuFlatButton16.Text" xml:space="preserve">
+    <value>Thông tin</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton16.Name" xml:space="preserve">
+    <value>bunifuFlatButton16</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton16.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton16.Parent" xml:space="preserve">
+    <value>tab6</value>
+  </data>
+  <data name="&gt;&gt;bunifuFlatButton16.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lbl_Status.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbl_Status.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 11.25pt</value>
+  </data>
+  <data name="lbl_Status.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 37</value>
+  </data>
+  <data name="lbl_Status.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="lbl_Status.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 25</value>
+  </data>
+  <data name="lbl_Status.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lbl_Status.Name" xml:space="preserve">
+    <value>lbl_Status</value>
+  </data>
+  <data name="&gt;&gt;lbl_Status.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuCustomLabel, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lbl_Status.Parent" xml:space="preserve">
+    <value>pn_HeaderMnc</value>
+  </data>
+  <data name="&gt;&gt;lbl_Status.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btn_GV_Tongtai.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_GV_Tongtai.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_GV_Tongtai.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 122</value>
+  </data>
+  <data name="btn_GV_Tongtai.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_GV_Tongtai.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_GV_Tongtai.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="btn_GV_Tongtai.Text" xml:space="preserve">
+    <value>Tổng Tải</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_Tongtai.Name" xml:space="preserve">
+    <value>btn_GV_Tongtai</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_Tongtai.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_Tongtai.Parent" xml:space="preserve">
+    <value>tab3</value>
+  </data>
+  <data name="&gt;&gt;btn_GV_Tongtai.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btn_TKTaiDaoTao.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_TKTaiDaoTao.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_TKTaiDaoTao.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 63</value>
+  </data>
+  <data name="btn_TKTaiDaoTao.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_TKTaiDaoTao.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_TKTaiDaoTao.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="btn_TKTaiDaoTao.Text" xml:space="preserve">
+    <value>Tải Đào Tạo</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiDaoTao.Name" xml:space="preserve">
+    <value>btn_TKTaiDaoTao</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiDaoTao.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiDaoTao.Parent" xml:space="preserve">
+    <value>tab1</value>
+  </data>
+  <data name="&gt;&gt;btn_TKTaiDaoTao.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn_TKNhanLuc.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="btn_TKNhanLuc.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btn_TKNhanLuc.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 122</value>
+  </data>
+  <data name="btn_TKNhanLuc.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="btn_TKNhanLuc.Size" type="System.Drawing.Size, System.Drawing">
+    <value>231, 59</value>
+  </data>
+  <data name="btn_TKNhanLuc.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="btn_TKNhanLuc.Text" xml:space="preserve">
+    <value>Nhân Lực</value>
+  </data>
+  <data name="&gt;&gt;btn_TKNhanLuc.Name" xml:space="preserve">
+    <value>btn_TKNhanLuc</value>
+  </data>
+  <data name="&gt;&gt;btn_TKNhanLuc.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuFlatButton, Bunifu_UI_v1.52, Version=1.3.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btn_TKNhanLuc.Parent" xml:space="preserve">
+    <value>tab1</value>
+  </data>
+  <data name="&gt;&gt;btn_TKNhanLuc.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1483, 846</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAMDAAAAEAIACoJQAAFgAAACgAAAAwAAAAYAAAAAEAIAAAAAAAACQAAAAAAAAAAAAAAAAAAAAA
+        AAD+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/9/f3/+vr6//39
+        /P///////////+vm7f+9u7//jpOL/2Z3Yf9IZD7/M1gm/zRaJf8rVR7/Nlks/0pmQ/9jc1z/kZaS/767
+        wv/s6Oz////////////9/fz/+vv6//39/f/+/v7//v7+//7+/v/+/v7//v7+/////////////v7+//7+
+        /v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/+/v7//v3+//r7
+        +v/9/v3///////Lu9v+ur7D/YHZa/y1eIP8fYgX/JXQF/ymEB/87lBX/T6Il/0qeI/9rsUr/Qpwf/zWR
+        Ev9GjyP/Im4A/xpgA/8vWh//ZXdh/7eyuv/18vj///////39/f/7+/v//v7+//7+/v/+/v7//v7+////
+        /////////v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+///////+/v7//v7+/////////////v7+////
+        ///9/f3/+vv6///////t6+//jpaN/zpdKf8bYgT/M4wR/1inK/+dzYL/jcNv/5zIgP+p0pX/tc+e/6rN
+        nP/V4Mj/us+l/6zNlv+PwnX/j8Bz/260Sv9Cnxj/KoMP/wxaAP82Wiv/kpiW//Lu8///////+/z6//39
+        /f/+/v7//v7+//7+/v/+/v7///////7+/v/+/v7////////////+/v7//////////////////v7+////
+        /////////v7+//r6+//9/v3//vz//6eoqP84XCf/KG8C/y+UAv+n1Y//jb9t/6LFk/9xr1n/bKlJ/8LZ
+        t/+hyIj/ztrB/6/Nmf+fw4j/0tvF/7POo/9UnzD/cLBV/9Dbxf+406f/k8Z//5nLe/85kwz/EmMA/zpX
+        MP+sqq////////39/P/6+/v///7///7+/v/////////////////+/v7/////////////////////////
+        ////////////////////////+/v7///////h3+X/V25R/x5nAP8lkAD/gb9h/3SzXP+LvnH/wtWw/4m5
+        bf+ky5L/i7x0/1imN/8/mhX/UqMr/z6ZFf8/nRf/SJ0g/2GoQv+Gvm7/TaMo/7nVrf91sFj/qs2a/1Wi
+        Nf9Bmhb/dbtQ/ySPBv8TVQH/Y29g/+jl6////////Pz8/////////////////////////////v7+//7+
+        /v/+/v7///////////////////////7+///7+/r//////8LAwv8qVhv/NYcQ/zujEv8lkgD/QpgY/7/X
+        tv+Qvnv/mMF7/0yhIv8xkwT/L5QD/yuWAP8wmAL/KpQA/zCYAf8wlgH/LZYB/yuUAP8lkQD/MJcD/zOW
+        BP9MpCj/Z69J/x6NAP89nBX/v9W2/5zJh/9ZrzD/EHAA/zFQLP/LyM7///////v7+///////////////
+        ///+/v7//v7+//7+/v/+/v7//v7+//////////////////v7+v//////sLCx/yNWD/8vkwD/Y7FA/7DP
+        nv9dpzT/S6Ae/4i7a/9HoiH/JY8A/y6VAv80mAH/NJkC/zWZAv80mAH/NZkB/zSYAf80mQH/NJgB/zWZ
+        Av82mQP/NJgA/zKXAf8wlgL/LpME/y+UAP9Rpyr/y93D/6zJmv+ix47/l8d9/zKRDP8aShD/t7O5////
+        ///6+/r///////7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v///v7/+/z6//////+tsbH/G1wJ/zyd
+        Ev+hyon/V6Mw/7jWo/+CuWX/QZwU/yuSAP8wlgH/N5oF/zaZA/80mAH/NZgB/zSZAf80mQH/NJkB/zSY
+        Af8zmAD/M5gA/zOYAP8zmAD/M5gA/zOYAf80mQH/NZkD/zGXAP85mQz/T6Mt/3GwUf+cxob/aKtM/47A
+        dv8wlwj/GEcK/7Wvuf//////+/v7//7+/v/+/v7//v7+//7+/v/+/v7//v7+///+/v/6+/v//////8C+
+        w/8hXgj/TKYm/7HQof+80bH/utGr/2WsQ/8hkAD/K5IB/yyTAP8skwD/K5MA/yuTAP8rkwD/K5MA/yuT
+        AP8skwD/LJIA/y+WAP80mQD/M5gB/zOYAP8zmAD/M5gA/zOYAP8zmAD/M5gA/zOXAP8ylwH/KJIA/0md
+        If+Zw4P/WKIz/7DNnv95tFf/MJQG/xpID//FxMr///////r7+//+/v7//v7+//7+/v/+/v7//v7+//7+
+        /v//////39vi/zdkJv8okgD/pcqQ/5zCh/+v1J7/crFT/ySPAP9EoBr/Uq4r/06tJv9PrSf/T60n/0+t
+        J/9PrSf/T60n/0+tJ/9OrSf/UrAq/0WgGf8zlgL/NJkC/zSYAP80mAD/M5gA/zOYAP8zmAD/M5gA/zOY
+        AP80mAH/NpoD/zGXAf8vkQP/c7FN/8zcv/+30af/ib5t/y2QAf8wUCj/5+Tq///////9/f3//v7+//7+
+        /v/+/v7//f39//z9/P/9+///WXtO/xiDAP+QxHj/z93E/7vTqf8/mRT/LJUB/z6fFv+xuqD/pIaM/6OD
+        iP+hg4n/oIOI/6CDiP+gg4j/oIOI/6GDif+hhIj/poGM/7DBov8tlgT/LpMA/zCTAP8wlAD/MJUA/y+U
+        AP8vlAD/MJUA/zCVAP8wlQD/LpQA/zSZBP8slgD/Op0R/2euRv+KvHP/s9Ch/368Xf8XdwD/XWpc////
+        ///7/Pv//v7+//7//v/+/v7/+/v6//////+jqpv/J3kA/2i1R/84kw//XKQ4/3W1Wf86mQv/K5UA/0+j
+        KP+yoab/1cPM/9vI0P/bx9D/28fQ/9vH0P/bx9D/28fQ/9rFzv/i0tr/s4+g/5Vxev92yFz/Q6YZ/0qs
+        H/9Jqx//SKsf/0WpH/9GqR//Sase/0irHv9Jqx//RKke/zabDP8ylwP/L5cA/zOYDP+s0Jz/f7Ng/6XJ
+        j/83oAj/GVwA/6emqv///////Pz8///////+/v7//////+vn6v9BcyP/HpEA/4W8bP+40qX/hLZm/yaQ
+        AP81mgT/LpUA/0ifIv+5sbD//////////v//////////////////////////////////////9v79/49j
+        ef+SaXb/oYyI/56MiP+fjIf/nouG/56LiP+ei4f/nYuF/5+Mh/+aiYH/rZib/5jAgv8rlAD/OJoG/y6W
+        AP9LoSP/sNGc/7vTq/+nzpL/OJoN/zZWKf/t6fD///////7+/v/7/Pv//////46nfv8uhgL/dLhT/yeM
+        AP+Mv3P/aa5F/yuUAP82mQP/LZUA/0mgI/+3r6//+vv8//38/P/9/Pz//fz8//38/P/9/Pz//fz8//79
+        /f/+/f3/+vv7//b39//SwMf/yq/A/82yxf/NssT/zbHE/82zxP/Ns8T/zrLF/8yww//Ru8r/om2N/5Om
+        ev8vmwD/NJgC/zeaA/8hkQD/c7NW/8DXsv+OtnH/Tqgi/xZqAP+Ok47///////v7+///////8u/t/z2B
+        F/9Poyv/m8WH/6zSn/9LoCn/KZEA/zSYAv80mQH/LZUA/0mfI/+4sK//+vz+//7+/f/+/////v7+//7+
+        /v/+/v7///////7+/v/+/v7///7+///+/v////////////////////////////////////////////z8
+        /P//////vZqv/4mldP8tnAD/NZoE/zOYAf8ulgD/RaAf/22uTf9ToS//ZaxB/y6VAf83WSv/8u30////
+        /v//////s8Oh/x9/AP+dx4f/VKAx/zyZEP9AnhD/MpcA/zOXAf80mQH/LpUA/0qgI/+4sK//+/3+//7/
+        /v/+/v7//f39//7+/v/8/Pv//v7+//7+/v/+/v7//v////r7+//y8vL/+/v7///////3+Pj/9/f4//z7
+        /P/7+/v//Pv7//r5+f//////uZSr/4qkdf8tmwD/NJkE/zOYAP82mgb/I5EA/3q1Wv/Y4tD/qMua/0an
+        Gv8YYwD/r62x////////////a5tP/y6UAv+gxoP/wdiv/3GzVv8pkwD/NZkC/zOYAP80mQH/MJYA/02g
+        JP+4sK//+/3+///////9/f3/+vr6//Ly8v///////v7+//7+/v/9/f3///7///z+/f/Q3Nr/0NnZ/9ng
+        4v/H0dD/6vDv//f4+P/6+/v///////z7/P//////uZWr/4qkdf8smgD/M5gD/zOYAP80mAH/MJcA/0ed
+        G/+dwIL/09zD/2qxQv8cgwD/ZHdf///////o5+L/OIsP/1GmLf+wy5v/ss2e/1anM/8ulQD/NJgC/zOY
+        AP81mQH/LZYA/0mhI/+4sK//+/3+//39/P//////xbi//6eXnf/Kw8f/8/T1//78/f///v7/8fT0/8Gz
+        uP/FuL7/6vPz/8HMzf++zMv/1t3d/73Ky//Q2dr/5enp//n6+v//////upWs/4qkdf8smgD/NJgD/zOY
+        AP8zmAD/NJkB/y+UAP+41ab/msSF/1GiJ/8plwD/N2En/+fi6/+8y6v/KIkA/2y0TP+806j/vNat/zyZ
+        Dv8xlQH/NJgA/zOYAP81mQH/LJYA/0ihI/+4sK//+/3+//39/P//////vbG6/+3s7//h4OL/vra5//Py
+        8//r6ur/s6qs/9fX2v+yoan/8O7v///////Y3d7/w83O/7rJy/+9ycr/t8TE/+Lm5///////uZWr/4qk
+        df8smgD/NJgD/zOYAP8zmAD/NJgC/yuTAP9/tWP/nsmG/3i4XP9CoxL/I2YG/7a2uv+PtnP/IooA/5jD
+        fP/R28f/dLNX/y2VAP80mAL/M5gA/zOYAP80mQH/L5UA/0ugIv+3sK///P3+//39/P//////z8zO/93c
+        3f//////9vf3/7+2vP+1qa7/9PT0///////Dt73/8PDw///////m6en/vMjI/7nGyP+rvb7/rL2+/+Pm
+        6P//////uJSr/4mkdf8smwD/NJgD/zOYAP8zmAD/NJgB/y2UAP9OnyX/xdqx/3y0Wv84oAn/I3YA/4aO
+        hf9wrkb/LJMA/4C5Yf/I2bj/kMR4/yWRAP81mAP/M5gA/zOYAP80mQH/LpUA/0qgI/+3r6//+vv9//z8
+        /P/+////8fX0/7yzuf+VZ3n/x7jA/7akrf/KvsX//////+/v8P/JwMT////////////w8fL/v83M/8LR
+        0v/N2Nn/wM3P/93g4v//////uZWr/4ukdf8smgD/NJgD/zOYAP8zmAD/NJgB/y6TAP9NpST/R58i/yCN
+        AP83nAf/J4UA/2FyXP9bpCv/LpYB/zKWA/85mgr/PJgM/zKXAv8zlwL/M5gA/zOYAP80mQH/LZUA/0mg
+        I/+3rK7/+fv8///////x8vP/4dvf/5Fgcf9MABH/hlpq/6WLlv+rkZv/wrS7/7yvtv+/sbf/4+Hi/+fl
+        5f//////1t7d/7TExf+9y83/v8vN/73Hyv/y/vr/vZiu/42kdf8smgD/M5gD/zOYAP8zmAD/M5gA/zSY
+        Av8ulAH/L5UC/zaZA/80mAP/LJIA/0dkO/9NniP/MpcB/zKWCf8xlgb/M5gD/zOXAf8zmAH/M5gA/zOY
+        AP80mQH/LZUA/0mfI/+6sLH/8e7x/83FyP/Kx8n/aSNB/2UCLf+HVWb/mHaD/5V4h/+jh5H/vbG3/6mZ
+        o//u8PH/3d/f/8/Mzv+ypKj/9fT1/8rW1/+zxsb/v8vN/7nCxf/o8/D/vZiu/42jdf8umgD/NJgC/zOY
+        AP8zmAD/M5gA/zOXAP8zmQP/M5gF/zeWBv8ylgf/LpYA/zlfKP9PnSL/J5IA/4rAdP+HvGn/KJEA/zWZ
+        A/8zmAD/M5gA/zOYAP80mQH/LZUA/0edIf/Durv/w7i9/6aTm///////qXyU/14NMv/Z19j/up6p/49n
+        eP+ghY3/rp+n/7uxuf/8////9fb2/9za2/+olpz/8u/w/9rj4/+7y8v/vMjK/7K7vv/m8e7/vZiu/42j
+        df8vmwD/NZgC/zOYAP8zmAD/M5gA/zOYAP80mQL/LpMA/57Hhv9ztVT/JpQA/zZbJf9TnCP/LZYA/1Sl
+        Lv9SpCj/MJUA/zSYAf8zmAD/M5gA/zOYAP80mQH/LpYA/0qgJP+6ra//+Pn6/9jT2P/OyMv/dzlP/10E
+        K/+miJT/n4KN/5x4h/+WcH7/nIGM/8O7w/+0qLD/1dTV/9TV1f/09/f//////+Dl5/+2xcf/ucbI/7jD
+        xP/b6OP/vZis/4qidP8smwD/NZcD/zOYAP8zmAD/M5gA/zOYAP80mAH/M5cB/1upNv9MoSL/LZgA/zRa
+        JP9hojL/MJgA/yOPAf8hjAD/L5UC/zSYAf8zmAD/M5gA/zOYAP80mQH/LpYA/0qhJP+6rq//+vr8//7+
+        /v/9////tZii/3ArSv9eASr/jGJy/6B+i/+TZ3j/8vXz//Py8f/FvcT/+vz8///////8/Pz//////8bT
+        1P+nurv/tsjJ/7vHx//5//7/vJeq/4qidP8smwD/NZcD/zOYAP8zmAD/M5gA/zOYAP8ylwH/KpMB/x2M
+        AP8kjwH/MJgA/zdeKf9srUH/NJgG/2mxSv+Mv3D/UaYv/yyUAP80mAP/M5gA/zOYAP80mQH/MJYA/0yg
+        I/+3sK//+/z9//38/P//////8/Tz/6+jqf9vKUX/qZCZ/5yHkf+3qbD/6u7t///////RyM3/4uLj////
+        /////v//+vr6/8HNz/+sv8D/qLu9/8fR0f//////vJeq/4qidP8smwD/NZcD/zOYAP8zmAD/MpgA/zWY
+        B/8zlwf/arFM/4/Cdv9ytFP/MZQI/0RlOP+Eu13/OJoJ/5bDf/+91qv/U6Ur/zOWAf81lwP/M5gA/zOY
+        AP80mQH/L5YA/0ugI/+3sK//+/z+//39/P//////0MjM/9PO0P/3+/v/vbe9/+He4P/39vf/vLO4/9jS
+        1/+5qa//19PV////////////7O/u/7HAwf+ovL3/sMLC/+Xp6f//////upWq/4qjdf8smwD/NJcD/zOY
+        AP8zmAD/MZcA/zaYB/94tFX/pMaS/3+3X/9ztlP/JocA/2N0Wv+rz4z/NJUC/3u1XP+30aP/cLNQ/yaQ
+        AP8zlgL/NJgA/zOYAP81mQH/LpYA/0qhJP+4sK//+/3+//39/P//////3NfY/6KOmv+6sbj/2NXX////
+        ///+/v7//Pv8/9LKzf/Ar7T/9vb3/////////v7/7vPz/7XExf+svb//0t3e///+/v//////upWs/4ql
+        df8smgD/M5gD/zOYAP8zmAD/NJgB/zGWAv84lgr/ncWC/5rGhP9JpiD/HnwA/4WRg//P5b//RaQX/0We
+        Hf+gxYn/mMSE/12nNP8+mxP/MZYA/zOYAf81mQH/LZYA/0ihI/+4sK//+/3+//7+/v/+/f3//f7+/9/c
+        3v/x8fH///////38/P/+/v7//f39/////////////f79///+/v/7/P3/+vz8/73Hyf++zM3/8PX1//z7
+        /P//////upas/4qidf8rmgD/NJcD/zOYAP8zmAD/NJkC/yyRAP9ssEz/m8eD/2irQ/9HqBv/Im8F/7S1
+        tv/x+O3/X68z/1qnPP+gxIv/hrtt/5C/cv8wlQP/M5cC/zOYAf81mQH/LJYA/0ehI/+4sK//+/3+//7+
+        /v/+/v7//v7+///////+/v7//f39//7+/v/+/v7//v7+//39/f/9/Pz//f39/+/v9P//////8PDy/9LY
+        2f/3+vr//f39//z6+///////upar/4qgdf8rmgD/NJcC/zOYAP8zmAD/M5kB/zSWA/+lyJD/xdK3/6jJ
+        kf8smQH/M2oe/+Pe5f//////m8p6/zWTB/+TwXj/qc+V/1qlOf8nkgD/NZoC/zOYAP81mQH/K5UA/0ag
+        Iv+4sLD/+/3+//7+/v/+/v7//v7+//39/f/+/v7//v7+//7+/v/+/v7//v7+//7+/v/9/v///////77E
+        3P+pstT/pazT//X2+////////v7+//38/P//////upaq/4uhdv8rmQD/NJcC/zOYAP8zlwH/M5cD/ymR
+        Af9DnBn/jb1x/3m1XP8hiAD/X35X////////////1ObB/0GcD/80lw3/ncaE/6nNlP9krkP/K5MA/zWY
+        A/81mQH/LJYA/0efIv+4sK//+v7+//7//f/9//3//f/9//3//f/9//3//v/+//7//v/+/v7//f39//7+
+        /v/+/////Pz6/6mw1/9QYb7/c4TD/+nt8f///v7//v7///z8/P//////upaq/4qhdv8rmgD/NZcD/zOY
+        AP80mAL/M5cF/3G0U/9Amxn/Io8A/zOgBf8kdgD/pq6o////////////+vz1/3O1Tf9DnRv/psmQ/1Oh
+        Mf97uV//LZIA/zeYBP80mQH/LpYA/0qhJf+0r67/+Pb8//v4+//7+Pv/+/j7//v4+//7+Pv/+/f9//r3
+        /P/5+Pr//f39//7+//////7/5efr/7S23f95hcj/nabR/8vO4f/7/fn//v3+//z7+///////uZaq/4qg
+        dv8smgD/NpgD/zOYAP8ylgL/PpkR/73Wrf+x0KP/XKs6/yyZAP8+biT/7enw///////9/fz//////8Ld
+        s/84lwr/ZqxD/1GiJ/8lkAD/IpAB/y2UAf82mAP/LZYA/0ukIf+qrZ3/qqmh/6ytov+srKP/q6yk/6ys
+        pP+rrKP/qquh/62xp/+mnZ3/39rd///////7+vv/+/v6//////++wdz/7u7v/////f/7+/r//Pz9//v6
+        +v//////upat/4yid/8smgD/NJYD/zWYA/81lwj/dLNZ/77Usf+gxo3/QJ8T/yV/AP+PnYL///////r7
+        +v/+/v3//f7+//X29P+AuWP/JI8A/zWZCv9gqzr/ksJ7/1epMv8rlAD/OJkF/zWbBf9BoRn/Qp8W/0Cg
+        FP8/oBb/Pp8W/z6fFv8+oBb/P6AW/zyfEP92pF3/0r/M///////+/f7//////////////////v7+////
+        //////////////z8/P//////upip/4qhcf8umwD/OZoK/yeQAP9prk3/lcF9/2qtSf+AvGH/JpUA/0d4
+        J//p6On///////39/f/+/v7//P37///////W5M7/S58b/1WnMf+iyoj/y9y//16pPv8ylQX/L5UE/y6W
+        Av8ulgD/LpYA/y+WAP8vlgD/MJYA/y+WAP8wlQD/MJUB/yuTAP9Cnxz/oqaY/9DA0P/h2eP/39bh/+HW
+        4v/f1eH/4Nbh/+HW4v/h1uL/4tfi/+DV4P/i3+b/vJmy/5u0h/8smAD/KJMA/0+iJ/++063/0d7J/0Wc
+        IP8nlwD/KIMA/6q0n////////Pz7///////+/v7//v7+//3+/f/+/P//rM6V/yuWAP9Royv/irhw/4a8
+        bP+KvW3/Q5we/0SeHf8zmAD/NZkC/zSYAf80mAH/NJgB/zSYAf80mAH/NJgC/zaYBv8wlQP/R58b/3Cj
+        Uf98oGb/e6Fl/3uiZf97oWT/fKFk/3uiZP97o2T/fKNm/32iZv95n2L/j611/2CsO/8nkAD/Z6tF/53H
+        h/9rrUv/msGD/5HAc/8ljgD/aJRO///7///8/fv//v7+///////+/v7//v7+//7+/f/8//7/9vf0/5G7
+        av8rkQD/crNX/6vJkv+qyZT/vdKq/0qfJP8rlAD/N5kD/zOYAP8zmAD/M5gA/zOYAP8zmAD/M5gA/zOX
+        Af80lwP/L5UB/yyXAP8umAD/L5gA/y2ZAP8smAD/K5gA/y+aAP8vmgD/L5sA/y6ZAP8vmQD/LJUB/yOP
+        AP9Upi//oMWM/5DAdv+Nw3T/Jo0A/z6aEf9IhyX/5Ofi///////9/f3//v7+//7+/v///////v7+//7+
+        /v/9/fz//////+/w5f92sFD/IJEA/3azWv/M28D/bahP/323YP9BnBj/KZIA/zWXAv81mQL/M5gA/zOY
+        AP8zmAD/M5gA/zOYAf8zlwH/M5cB/zWYBP81mAT/NZgD/zWYAv80mAP/NJcE/zWXBv81lwT/NZgE/zaY
+        Bv8ylgP/OZcK/5nCfv+fxIX/nciF/2euSv9Soyv/NZgD/zaHD//T2Mn///////v8+////////v7+//7+
+        /v////////////7+/v/+/v7//f79///9///o7uD/ZatA/2usRf+Fum3/dLJY/8jZuP+1z6H/fLdb/ymQ
+        AP8xlgP/MZgA/zOYAP81mQL/M5gA/zOYAP8zmAD/M5gA/zOYAP8zmAD/M5gA/zOYAP8zlwL/M5cD/y+V
+        Av80mAP/MpcC/y+VBP8nkQD/iLxn/4q6dP+bw4f/drZc/1SkL/8kkgD/NowP/8HTuf///////f78////
+        /////////f39///////+/v7//v7+//7+/v/+/v7//v7+//z9/P//////5u3f/3+1W/8hiwD/ebla/6zM
+        lP/N3ML/U6Ut/z+bFv9srET/PJkP/ziZCf8tkwD/NJgC/zOXAf80mAP/M5gC/zWYA/80mAP/NZgD/zOY
+        Av8wlgH/MZQD/02iJf8xlAD/SqEg/2yvT/8bkAD/Uacw/7TSof+Uvn//RKIi/yKPAP9Jkxj/xdm6////
+        ///7+/r//v7+/////////////v7+//7+/v/+/v7//v7+//7+/v/+/v7//v7+//7+/v/8/fz///7+//L0
+        7f+Uw3j/KY8A/z+bG/9ssEn/HosA/5fEff/T38z/j8N2/zmaD/9YqjP/MJYB/zSXA/8vkwH/MpQC/y2U
+        Af8wlgT/LJQA/zeZCv8+mhL/TZ8f/26uSP+dyIj/TaIt/6/Ql/9cpTb/LJYC/0GdGv86nRf/JZEA/2Kh
+        Of/Z5ND///////v8+//+/v7//v7+/////////////v7+//7+/v////////////7+/v/+/v7//v7+//7+
+        /v/+/v7//f39///////4+vr/uter/1GjKv8ljgD/MpgF/4m9dP++1rD/N5YQ/3y7Yf+s0Jr/IJAA/ymU
+        AP9ztVP/WKYu/2itQ/9cqDr/a7BM/4m+cP+nzZn/eLRb/7zWsf/P3MP/PpwZ/6LFjf+WxIH/N5kH/yqU
+        AP85kAv/j7Zy/+/17////////P37//7+/v/+/v7//v7+//7+/v/+/v7///////////////////////7+
+        /v/+/v7//v7+//7+/v/+/v7///////39/f/8/Pz///7//+Ps4f+QwHn/QpwY/x6MAP9GnyL/Xqk+/6TK
+        lv+hxor/O5wP/yWSAP+oy5P/Xqo7/6LKif/C17H/oseJ/5fEgv90tVv/jsB2/1KgNP/I1bP/Rp4g/0Cc
+        F/8nkQD/OJEC/3KoRf/T3cH///////39+//9/fv///////7+/v/+/v7//v7+//7+/v/+/v7/////////
+        ///+/v7//v7+///////+/v7//v7+//7+/v/+/v7////////////+/v3//P38///////6/P3/0eXP/5DB
+        dv9Fnxn/MpMB/2moRv9vr0//M5cD/0+iJP+x0pz/gbdk/4a7Z/9+uV//ebRc/3m1WP9PoSr/U6cw/yaR
+        AP9bozb/N5gN/zWZB/9zrkv/wNWn//n49f///////f78//7//v//////////////////////////////
+        //////////////////////////////7+/v/+/v7//v7+/////////////v7+//7+/v/+/v7//v7+//z9
+        /P/9/fv////////+///m8OX/tNGg/4S6av9XqC//PpoO/zeUBP8qkgH/LZUC/yyRAf8okgD/KpUA/yiR
+        AP8wlgD/MZcE/0ukI/9ss0X/n8uB/9nnzv/8/Pv///////3+/P/9/fz//v7+//7+/v/+/v7//v7+////
+        ///////////////////+/v7//v7+//7+/v////////////7+/v/9/f3//v7+/////////////v7+//7+
+        /v/+/v7//v7+//7+/v/+/v7//f79//7+/f///v////////z7+//r7+H/0eC//7TQmv+dxXr/hLpp/4O7
+        af+EvWn/hsBr/43Idf+l0Yr/yuCx/+Tu2P/+/Pn///7////////+//7//f78/////v/+/v7//v7+//7+
+        /v/+/v7//v7+//////////////////7+/v/+/v7//v7+//7+/v8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAA=
+</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Katakana</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 2, 3, 2</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Quản Lý Giáo Viên</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
